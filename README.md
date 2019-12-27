@@ -2,8 +2,8 @@
 A API wrapper that reads the HTML of the site and extracts info
 
 This library supports fetching:
-- Manga, 
-- List of Manga, 
+- Posts, 
+- List of Posts, 
 - tags/characters/parodies/catagories/groups/artists
 
 # Install
